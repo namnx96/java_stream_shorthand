@@ -1,0 +1,1 @@
+# java_stream_shorthand
