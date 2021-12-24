@@ -1,4 +1,4 @@
-# Shorthand Javastrean for common use cases 
+# Shorthand Java stream for common usecases 
 
 1: Convert Collection T to list of prop
 
